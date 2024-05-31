@@ -1,0 +1,14 @@
+body{
+    background-color: #aa5924;
+    font-family: "Times New Roman";
+}
+
+entry {
+    text-align: center;
+    color: beige;
+}
+
+centertext {
+    text-decoration: dotted;
+    color: bisque;
+}
